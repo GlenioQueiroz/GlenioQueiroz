@@ -19,7 +19,7 @@
 ---
 
 ## 🌐 Onde me encontrar
-- 💼 LinkedIn: https://www.linkedin.com/in/gl%C3%AAnio-queiroz-952321385?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BHAvL99BWRjOkE5xz34akKQ%3D%3D  
+- 💼 LinkedIn: https://www.linkedin.com/in/glenioqueiroz  
 - ✉️ Contato: gnfilho457@gmail.com  
 
 ---
