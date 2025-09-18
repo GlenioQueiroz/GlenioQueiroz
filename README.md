@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou Glênio Queiroz
 
 🎯 **Sobre mim**  
-- 💻 Desenvolvedor focado em C++, java, python e sistemas de software  
+- 💻 Desenvolvedor backend focado em C++, java, python e sistemas de software  
 - 🤖 Interesse em inteligência artificial e aprendizado de máquina  
 - 📚 Sempre aprendendo novas tecnologias e boas práticas de programação  
 - 🚀 Buscando colaborar em projetos de código aberto e desafios técnicos  
